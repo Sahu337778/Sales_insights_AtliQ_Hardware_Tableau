@@ -45,5 +45,6 @@ To view the Tableau dashboard:
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-
+## Tableau public project link-
+[Tableau Dashboard](https://prod-uk-a.online.tableau.com/#/site/pramodpersonalprojects/workbooks/568107?:origin=card_share_link)
 Happy Analyzing!
